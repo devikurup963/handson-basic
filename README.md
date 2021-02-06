@@ -1,1 +1,2 @@
 first configuration
+second configuration
